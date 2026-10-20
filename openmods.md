@@ -17,6 +17,10 @@ Jumps cost only the movement you use, with a doubled base range. A Mod Configura
 
 Boosts from spells, items and feats, such as Enhance Leap, still change the range on top of these values.
 
+## Screenshots
+
+![Jump Unbound cover](docs/cover.png)
+
 ## How to install
 
 1. Install [Norbyte's Script Extender](https://github.com/Norbyte/bg3se). It updates itself.
