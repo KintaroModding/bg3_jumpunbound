@@ -20,7 +20,8 @@ Boosts from spells, items and feats, such as Enhance Leap, still change the rang
 ## How to install
 
 1. Install [Norbyte's Script Extender](https://github.com/Norbyte/bg3se). It updates itself.
-2. Install the [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162), version 1.41 or later.
+2. Install the [Mod Configuration Menu](https://github.com/KintaroModding/bg3_mcm/releases/latest), version 1.41 or
+   later. The official Mod Configuration Menu 1.41 or later works too; keep only one of them.
 3. Download `bg3_jumpunbound.pak` from the latest release on GitHub.
 4. Copy it to `%LOCALAPPDATA%\Larian Studios\Baldur's Gate 3\Mods`.
 5. Enable **Jump Unbound** in your mod manager (BG3 Mod Manager or the in-game mod manager), below the Mod
