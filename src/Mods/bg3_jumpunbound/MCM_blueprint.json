@@ -1,0 +1,25 @@
+{
+  "SchemaVersion": 1,
+  "ModName": "Jump Unbound",
+  "Tabs": [
+    {
+      "TabId": "general",
+      "TabName": "General",
+      "Sections": [
+        {
+          "SectionId": "jump",
+          "SectionName": "Jump",
+          "Settings": [
+            {
+              "Id": "add_strength_to_jump",
+              "Name": "Add Strength to the jump distance",
+              "Type": "checkbox",
+              "Default": true,
+              "Description": "On: as in the base game, each point of Strength modifier adds 1 m to the 9 m base range. Off: every character jumps 9 m. In multiplayer, the host's setting counts."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

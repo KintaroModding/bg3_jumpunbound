@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Jump Unbound",
+  "summary": "Jumps cost only the movement you use, with a doubled base range. A Mod Configuration Menu switch decides whether Strength still adds to the distance.",
+  "games": ["baldurs-gate-3"],
+  "tags": ["gameplay", "quality-of-life"],
+  "requires": ["Norbyte's Script Extender", "Mod Configuration Menu"],
+  "gameVersions": ["Patch 8"]
+}
